@@ -1,0 +1,1 @@
+python curriculum_training.py --START_SEQ=1 --END_SEQ=32 --GEN_GRU_LAYERS=4 --DISC_GRU_LAYERS=4
